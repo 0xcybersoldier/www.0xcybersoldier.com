@@ -1,6 +1,7 @@
 # Table of contents
 
 * [www.0xcybersoldier.com](README.md)
+* [Whoami ??](whoami.md)
 
 ## Bug Bounty
 
