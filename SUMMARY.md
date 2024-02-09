@@ -16,17 +16,20 @@
     * [BugBounty Hunting Podcast (EPS.3) - Orwa Atyat | @GodFatherOrwa](bug-bounty/podcasts/arabic-podcasts-in-bug-bounty-hunting/bugbounty-hunting-podcast-eps.3-orwa-atyat-or-godfatherorwa.md)
     * [BugBounty Hunting Podcast (EPS.4) - Ahmed Usama | @Vulnera](bug-bounty/podcasts/arabic-podcasts-in-bug-bounty-hunting/bugbounty-hunting-podcast-eps.4-ahmed-usama-or-vulnera.md)
     * [BugBounty Hunting Podcast (EPS.5) - Mohammed ElDeeb | @malcolm0x](bug-bounty/podcasts/arabic-podcasts-in-bug-bounty-hunting/bugbounty-hunting-podcast-eps.5-mohammed-eldeeb-or-malcolm0x.md)
+    * [ #بودكاست كيف تبدأ في How To Start in BugBounty? | BugBounty ](bug-bounty/podcasts/arabic-podcasts-in-bug-bounty-hunting/bwdkast-kyf-tbda-fy-how-to-start-in-bugbounty-or-bugbounty.md)
   * [English Podcasts in Bug Bounty Hunting](bug-bounty/podcasts/english-podcasts-in-bug-bounty-hunting/README.md)
     * [Bug Bounty 2022 Guide: Where to focus // How to make money // How to get started today](bug-bounty/podcasts/english-podcasts-in-bug-bounty-hunting/bug-bounty-2022-guide-where-to-focus-how-to-make-money-how-to-get-started-today.md)
 
 ## CTF Writeups
 
-* [Page 2](ctf-writeups/page-2.md)
+* [0xL4ugh CTF ](ctf-writeups/0xl4ugh-ctf/README.md)
+  * [2021](ctf-writeups/0xl4ugh-ctf/2021.md)
 
 ## Pentesting
 
 * [Networking Services Pentesting](pentesting/networking-services-pentesting/README.md)
   * [80/443 PORT](pentesting/networking-services-pentesting/80-443-port.md)
+  * [20/21 PORTS](pentesting/networking-services-pentesting/20-21-ports.md)
 * [Common Web Application Vulnerabilities](pentesting/common-web-application-vulnerabilities/README.md)
   * [XSS (Cross Site Scripting)](pentesting/common-web-application-vulnerabilities/xss-cross-site-scripting.md)
   * [SQLI(SQL Injection)](pentesting/common-web-application-vulnerabilities/sqli-sql-injection.md)
