@@ -4,3 +4,7 @@
 arabic course by Ibrahim hijazy
 {% endembed %}
 
+{% embed url="https://www.youtube.com/watch?v=b_EGEerEqvA" %}
+arabic couse by صحيح
+{% endembed %}
+
