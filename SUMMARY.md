@@ -24,6 +24,10 @@
 
 * [0xL4ugh CTF ](ctf-writeups/0xl4ugh-ctf/README.md)
   * [2021](ctf-writeups/0xl4ugh-ctf/2021.md)
+* [Pico CTF](ctf-writeups/pico-ctf/README.md)
+  * [2024](ctf-writeups/pico-ctf/2024/README.md)
+    * [Web Exploitation](ctf-writeups/pico-ctf/2024/web-exploitation/README.md)
+      * [Bookmarklet](ctf-writeups/pico-ctf/2024/web-exploitation/bookmarklet.md)
 
 ## Pentesting
 
