@@ -28,6 +28,8 @@
   * [2024](ctf-writeups/pico-ctf/2024/README.md)
     * [Web Exploitation](ctf-writeups/pico-ctf/2024/web-exploitation/README.md)
       * [Bookmarklet](ctf-writeups/pico-ctf/2024/web-exploitation/bookmarklet.md)
+* [HACK THE BOX](ctf-writeups/hack-the-box/README.md)
+  * [Busqueda](ctf-writeups/hack-the-box/busqueda.md)
 
 ## Pentesting
 
