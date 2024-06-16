@@ -30,6 +30,7 @@
       * [Bookmarklet](ctf-writeups/pico-ctf/2024/web-exploitation/bookmarklet.md)
 * [HACK THE BOX](ctf-writeups/hack-the-box/README.md)
   * [Busqueda](ctf-writeups/hack-the-box/busqueda.md)
+  * [UpDown](ctf-writeups/hack-the-box/updown.md)
 
 ## Pentesting
 
