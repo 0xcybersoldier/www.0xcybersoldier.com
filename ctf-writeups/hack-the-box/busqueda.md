@@ -37,11 +37,11 @@ after edit /etc/hosts and add as searcher.htb
 
 then visit website
 
-<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption><p>http://searcher.htb/</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (1).png" alt=""><figcaption><p>http://searcher.htb/</p></figcaption></figure>
 
 we notice seachor 2.4.0 version
 
-<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
 
 lets find exploit or cve for it
 
@@ -71,7 +71,7 @@ if you want specific port
 
 user.txt flag
 
-<figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
 
 lets return to /var/www/app
 
@@ -81,11 +81,11 @@ here is .git
 
 lets see it
 
-<figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (1).png" alt=""><figcaption></figcaption></figure>
 
 here is config file lts see it what does have
 
-<figure><img src="../../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (1).png" alt=""><figcaption></figcaption></figure>
 
 we found credentials and website
 
@@ -93,11 +93,11 @@ we found credentials and website
 
 2- gitea.searcher.htb (add it to /etc/hosts )
 
-<figure><img src="../../.gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6 (1).png" alt=""><figcaption></figcaption></figure>
 
 lets visit cody just for review
 
-<figure><img src="../../.gitbook/assets/7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/7 (1).png" alt=""><figcaption></figcaption></figure>
 
 now lets return to our shell to see the sudoers what we can do as sudo
 

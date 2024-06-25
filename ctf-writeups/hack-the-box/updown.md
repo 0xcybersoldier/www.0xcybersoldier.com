@@ -448,7 +448,7 @@ add to burp suite
 Proxy” → “Options” → “Match and Replace” → “Add” and add “Special-Dev: only4dev
 ```
 
-<figure><img src="../../.gitbook/assets/6 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **lets see if there is where dev doamin**
 
@@ -518,7 +518,7 @@ dev                     [Status: 403, Size: 281, Words: 20, Lines: 10, Duration:
 
 [**http://dev.siteisup.htb/**](http://dev.siteisup.htb/) **page**
 
-<figure><img src="../../.gitbook/assets/7 (1).png" alt=""><figcaption><p>Don`t Forget the special header</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/7 (1) (1).png" alt=""><figcaption><p>Don`t Forget the special header</p></figcaption></figure>
 
 **so lets review the**
 
